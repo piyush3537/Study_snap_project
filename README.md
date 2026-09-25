@@ -1,1 +1,1 @@
-# Study_snap_project
+# Study-snap
